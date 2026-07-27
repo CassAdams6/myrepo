@@ -1,5 +1,6 @@
 # myrepo
-Testing, Testing, 1,2,3, Alpha, beta, do you copy?
+Testing, Testing, and testing.
+1,2,3, Alpha, beta, do you copy?
 Repository for testing my Git/GitHub setup” or similar. It’s nice to have something here, so you’ll see it appear in the README.
 
 
